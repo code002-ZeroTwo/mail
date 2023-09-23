@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django development settings
+*.log
+*.pot
+*.pyc
+db.sqlite3
+local_settings.py
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Secret key
+*.secret
+
+# Environments
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Compiled Python files
+__pycache__/
+
+
+# migrations 
+/migrations/*

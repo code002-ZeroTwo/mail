@@ -1,0 +1,22 @@
+textarea {
+    min-height: 400px;
+}
+
+.views{
+    width: 75%;
+    height: auto;
+    background-color: black;
+    border: 2px solid white;
+    margin: 1rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.arcbutton {
+    border: 1px solid black;
+    border-radius: 3rem;
+    padding: 5px 30px 5px 30px;
+    height: 35px;
+}
